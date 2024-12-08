@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://hullacrepair.xyz/sitemap_index.xml
